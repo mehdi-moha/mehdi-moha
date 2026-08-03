@@ -214,11 +214,11 @@ They are intentionally separated from From-Scratch implementations.
 - 🌡️ [**Thermal Comfort Control System**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/fuzzy-methods-and-systems/fuzzy-hvac-power-control)  
   Mamdani fuzzy inference system for HVAC power dissipation control using temperature and relative humidity inputs, Gaussian, triangular, and trapezoidal membership functions, 15 fuzzy rules, min-max inference, centroid defuzzification, and surface visualization.
 
-- 🧭 [**Grid Wall Following**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/robotics)  
+- 🧭 [**Grid Wall Following**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/robotics/Grid_Wall_Following)  
   Grid-based maze navigation using right-hand and left-hand wall-following strategies, directional priority rules, visited-cell tracking, maximum-iteration termination, animated path visualization, and performance metrics including success rate, path length, and mean steps.
 
 - 🦾 [**Robotic Arm Kinematics and Workspace Analysis**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/robotics/Arm_Kinematics_Analysis)  
-  Analytical and simulation-based study of robotic arm kinematics using MATLAB. Includes forward and inverse kinematics derivation for a custom 3-DOF RRP robotic arm with transformation matrices, workspace reachability conditions, and elbow-up/elbow-down configurations. Also includes PUMA 560 workspace simulation using Denavit-Hartenberg parameters, cumulative transformation matrices, real-time 3D animation, and end-effector trajectory visualization.  
+  Analytical and simulation-based study of robotic arm kinematics using MATLAB. Includes forward and inverse kinematics derivation for a custom 3-DOF RRP robotic arm with transformation matrices, workspace reachability conditions, and elbow-up/elbow-down configurations. Also includes PUMA 560 workspace simulation using Denavit-Hartenberg parameters, cumulative transformation matrices, real-time 3D animation, and end-effector trajectory visualization.
 
 ---
 
@@ -299,6 +299,8 @@ They are intentionally separated from From-Scratch implementations.
   <img src="https://img.shields.io/badge/Data%20Mining-DAA520?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Digital%20Systems-708090?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Optimization-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulation-8B008B?style=for-the-badge" />
 </p>
 
 ---

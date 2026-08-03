@@ -33,7 +33,7 @@ The portfolio intentionally separates **from-scratch algorithmic implementations
 | Semantic Segmentation | Pet Segmentation with U-Net |
 | Image Processing and Restoration | Digital Image Processing in MATLAB, Image Denoising Methods Comparison |
 | Digital Systems and Embedded Design | Mano’s Basic Computer CPU in VHDL, 8051 Digital Clock, LED Matrix Controller |
-| Optimization, Fuzzy Control, and Robotics | Artificial Bee Colony, Multiobjective GA, Fuzzy HVAC Control, Grid Wall Following |
+| Optimization, Fuzzy Control, and Robotics | Artificial Bee Colony, Multiobjective GA, Fuzzy HVAC Control, Grid Wall Following, Robotic Arm Kinematics |
 
 ---
 
@@ -216,6 +216,9 @@ They are intentionally separated from From-Scratch implementations.
 
 - 🧭 [**Grid Wall Following**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/robotics)  
   Grid-based maze navigation using right-hand and left-hand wall-following strategies, directional priority rules, visited-cell tracking, maximum-iteration termination, animated path visualization, and performance metrics including success rate, path length, and mean steps.
+
+- 🦾 [**Robotic Arm Kinematics and Workspace Analysis**](https://github.com/mehdi-moha/Academic-Portfolio/tree/main/msc-2/robotics/Arm_Kinematics_Analysis)  
+  Analytical and simulation-based study of robotic arm kinematics using MATLAB. Includes forward and inverse kinematics derivation for a custom 3-DOF RRP robotic arm with transformation matrices, workspace reachability conditions, and elbow-up/elbow-down configurations. Also includes PUMA 560 workspace simulation using Denavit-Hartenberg parameters, cumulative transformation matrices, real-time 3D animation, and end-effector trajectory visualization.  
 
 ---
 

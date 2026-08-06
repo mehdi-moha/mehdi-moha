@@ -50,7 +50,7 @@ The portfolio intentionally separates **from-scratch algorithmic implementations
 - [🖥️ Digital Systems, Hardware, and Low-Level Design](#digital-systems-hardware-and-low-level-design)
 - [🛠️ Tools and Technologies](#tools-and-technologies)
 - [📄 Notes](#notes)
-- [⚖️ Copyright & Usage](#copyright--usage)
+- [⚖️ Copyright & Usage](#copyright-and-usage)
 
 ---
 

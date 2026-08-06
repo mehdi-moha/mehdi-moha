@@ -49,6 +49,8 @@ The portfolio intentionally separates **from-scratch algorithmic implementations
 - [💻 Algorithms, Artificial Intelligence, and Compiler Design](#algorithms-artificial-intelligence-and-compiler-design)
 - [🖥️ Digital Systems, Hardware, and Low-Level Design](#digital-systems-hardware-and-low-level-design)
 - [🛠️ Tools and Technologies](#tools-and-technologies)
+- [📄 Notes](#notes)
+- [⚖️ Copyright & Usage](#copyright--usage)
 
 ---
 
@@ -305,6 +307,8 @@ They are intentionally separated from From-Scratch implementations.
 
 ---
 
+<a id="notes"></a>
+
 ## 📄 Notes
 
 This repository is intended as a structured academic archive and portfolio.
@@ -312,3 +316,17 @@ This repository is intended as a structured academic archive and portfolio.
 It includes source code, notebooks, simulation files, reports, presentations, datasets where applicable, and project documentation from multiple academic stages.
 
 Some projects are implemented from scratch, while others use standard scientific computing, simulation, machine learning, or deep learning tools. These categories are intentionally separated throughout this README.
+
+---
+
+<a id="copyright-and-usage"></a>
+
+## ⚖️ Copyright & Usage
+
+All intellectual property rights to the original contents of this repository, including but not limited to source code, documents, reports, figures, datasets, and written materials created by Mehdi Mohammadi, are exclusively owned by Mehdi Mohammadi.
+
+Any form of copying, reproduction, modification, redistribution, publication, or commercial use of these original materials, in whole or in part, is strictly prohibited without prior written permission from the author.
+
+Any third-party materials included in this repository remain subject to their respective licenses and belong to their original authors or rights holders.
+
+© 2026 Mehdi Mohammadi. All rights reserved.

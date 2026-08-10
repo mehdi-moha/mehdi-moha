@@ -323,9 +323,15 @@ Some projects are implemented from scratch, while others use standard scientific
 
 ## ⚖️ Copyright & Usage
 
-All intellectual property rights to the original contents of this repository, including but not limited to source code, documents, reports, figures, datasets, and written materials created by Mehdi Mohammadi, are exclusively owned by Mehdi Mohammadi.
+All intellectual property rights to the original contents of this repository, including but not limited to source code, scripts, documents, reports, figures, datasets, results, designs, and written materials created by Mehdi Mohammadi, are exclusively owned by Mehdi Mohammadi.
 
-Any form of copying, reproduction, modification, redistribution, publication, or commercial use of these original materials, in whole or in part, is strictly prohibited without prior written permission from the author.
+Any form of copying, reproduction, modification, adaptation, redistribution, publication, sublicensing, sale, commercial or non-commercial use, or any other use of these original materials, in whole or in part, is strictly prohibited without prior written permission from the author.
+
+Automated access, scraping, crawling, indexing, data mining, text and data mining, code extraction, dataset creation, bulk downloading, or automated collection of the original contents of this repository is strictly prohibited without prior written permission from the author.
+
+Any use of the original contents of this repository for training, fine-tuning, evaluating, benchmarking, testing, validating, developing, improving, or deploying artificial intelligence, machine learning, deep learning, large language models, data-driven models, or automated systems is strictly prohibited without prior written permission from the author.
+
+No license or right is granted by making this repository publicly accessible or by allowing viewing of its contents. Viewing, accessing, cloning, downloading, or forking this repository does not grant any permission to use, copy, modify, distribute, publish, or exploit its original contents in any way.
 
 Any third-party materials included in this repository remain subject to their respective licenses and belong to their original authors or rights holders.
 
